@@ -8,8 +8,10 @@ This example is to show different parts of the Git repositiory and various comma
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the mail purpose is to provide simple examples for Git training demos.
 
 ##Deployment
+
+This is a simple web project, deployment can be any web server or even local file system.
 
 ## How to contribute
