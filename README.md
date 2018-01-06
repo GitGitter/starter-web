@@ -20,4 +20,4 @@ Please fork this repositiory and then issue Pull Request for review
 
 ### Copyright
 
-2014 Git.Training.
+2018 Git.Training.
