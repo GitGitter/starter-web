@@ -13,7 +13,7 @@ As stated above, the mail purpose is to provide simple examples for Git training
 
 ## Deployment
 
-This is a simple web project, deployment can be any web server or even local file system.
+This is a very simple web project, deployment can be any web server or even local file system.
 
 ## How to contribute
 
@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2018 Git.Training. All rights reserved.
+2020 Git.Training. All rights reserved.
